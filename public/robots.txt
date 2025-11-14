@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://investing-com-9b8485e5.zappy5.app/sitemap.xml
